@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Mithun 👋
 
-<!--
-**methun12/methun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer & CSE Student focused on building modern web applications, APIs, automation systems, and AI-powered tools.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,vue,nodejs,mysql,git,github,vscode,firebase" />
+</p>
+
+## 🛠 Currently Building
+
+- Web applications
+- Automation systems
+- API-based tools
+- AI integrations
+
+## 📌 Featured Projects
+
+### 🔹 Automation Tool
+Automation workflow system using Python & APIs.
+
+### 🔹 Full Stack Web App
+Modern responsive web application with authentication & dashboard.
+
+### 🔹 Firebase SDK Project
+Custom Firebase integrations and utilities.
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=methun12&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=methun12&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
